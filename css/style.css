@@ -1,8 +1,5 @@
 :root {
-  /* ─── Paleta de colores ─────────────────────────
-     TODO: Podés cambiar estos valores para personalizar
-     el tema de tu restaurante
-  ─────────────────────────────────────────────── */
+  /* ─── Paleta de colores del restaurante ─── */
   --color-primario:    #2C3E50;
   --color-secundario:  #E67E22;
   --color-fondo:       #FAF8F5;
